@@ -2,7 +2,7 @@ Instructions for seeting up example locally using Python and Pycharm editor.
 
 Note: You can choose to use command line or a Python editor such as Python, the steps will be very close.
 
-1- Sign up for PagerDuty evaluation at: https://launchdarkly.com/start-trial/ 
+1- Sign up for LaunchDarkly evaluation at: https://launchdarkly.com/start-trial/ 
 2- Make sure you have python installed. At least version 3.5 or higher.
 3- If you are using PyCharm, make sure it is installed. I tested on 2021.1 Community Edition.
 4- Install Python launchdarkly sdk: ldclient.py (https://github.com/launchdarkly/python-server-sdk)
